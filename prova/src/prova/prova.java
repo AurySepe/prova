@@ -1,7 +1,7 @@
 package prova;
 
-public class prova {
+public class prova 
+{
 
-  ciaooooooooooo
   
 }
